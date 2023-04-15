@@ -18,7 +18,7 @@ public:
             x = x->next;
         }
         ListNode* nxt = new ListNode();
-        vector<int>ans;
+        //vector<int>ans;
         
         x = nxt;
         int t = 0;
